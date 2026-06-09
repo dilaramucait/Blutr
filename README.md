@@ -1,55 +1,82 @@
-<<<<<<< HEAD
-# Welcome to your Expo app 👋
+# 🌍 Blutr
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Blutr is a smart environmental intelligence platform developed during the Cassini Hackathon, focused on monitoring, predicting, and reducing water pollution through satellite data, artificial intelligence, and community-driven action.
 
-## Get started
+---
 
-1. Install dependencies
+## 🚀 Overview
 
-   ```bash
-   npm install
-   ```
+Blutr shifts environmental monitoring from a reactive approach to a proactive system by combining real-time data analysis, AI-powered image processing, and predictive modeling.
 
-2. Start the app
+It enables early detection of pollution risks and supports fast community response before environmental damage escalates.
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 🛰️ Data Sources
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Blutr integrates real-world satellite and positioning systems:
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- 🛰️ **Copernicus Programme** – Environmental Earth observation data (water quality, land changes, air pollution)
+- 📍 **Galileo Satellite System** – High-precision geolocation for accurate incident mapping and tracking
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## ✨ Features
 
-```bash
-npm run reset-project
-```
+- 🗺️ Interactive map-based pollution visualization  
+- 📸 Geotagged pollution reporting with images  
+- 🤖 AI-powered image analysis for pollution type and severity detection  
+- 📊 Predictive models for identifying high-risk areas  
+- 🛰️ Satellite-based environmental monitoring  
+- 🧹 NGO cleanup event coordination  
+- 🎮 Gamification system (points, badges, rankings)  
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## 🏗️ System Architecture
 
-To learn more about developing your project with Expo, look at the following resources:
+Blutr is designed as a scalable, modular system:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+- **Frontend:** React Native  
+- **Backend:** Node.js / Express   
+- **AI Layer:** Image classification + predictive models  
+- **Geospatial Data:** Copernicus satellite data + Galileo positioning  
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
+## 🌱 Ecosystem
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-=======
-# Blutr---Water-Pollution-Detection-Environmental-Intelligence-Platform-Cassini-Hackathon-Project-
-Blutr is an environmental intelligence platform that uses satellite data, AI, and community reporting to monitor and predict water pollution.
->>>>>>> 0c4aae59f08ebe52fe1c58fe617209cbcc509935
+Blutr connects multiple stakeholders into a unified environmental network:
+
+- Citizens and users  
+- NGOs  
+- Government institutions  
+- Recycling companies  
+- Private sector organizations  
+
+The platform supports ESG reporting and encourages sustainable, data-driven environmental action.
+
+---
+
+## 🔄 Core Workflow
+
+1. User reports pollution with image + location  
+2. Galileo provides precise geolocation  
+3. Backend stores incident data  
+4. Copernicus satellite data is used for environmental validation  
+5. AI model analyzes severity and type  
+6. System updates map and risk predictions in real time  
+
+---
+
+## 💡 Impact
+
+Blutr demonstrates how satellite data, artificial intelligence, and community engagement can work together to create a scalable solution for global environmental protection and water pollution monitoring.
+
+---
+
+## 📸 Preview
+
+[![Blutr Preview](https://blutr-mockups.vercel.app/)
+
+---
