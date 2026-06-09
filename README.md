@@ -75,8 +75,6 @@ Blutr demonstrates how satellite data, artificial intelligence, and community en
 
 ---
 
-## 📸 Preview
+## 💡 Live Preview
 
-[![Blutr Preview](https://blutr-mockups.vercel.app/)
-
----
+👉 https://blutr-mockups.vercel.app/
