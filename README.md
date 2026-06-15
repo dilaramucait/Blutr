@@ -71,7 +71,7 @@ The platform supports ESG reporting and encourages sustainable, data-driven envi
 
 ## 💡 Impact
 
-Blutr demonstrates how satellite data, artificial intelligence, and community engagement can work together to create a scalable solution for global environmental protection and water pollution monitoring.
+Blutr demonstrates how satellite data, artificial intelligence, and community engagement can be combined to create a scalable solution for environmental protection and water pollution monitoring. It highlights the potential of data-driven technologies in addressing real-world ecological challenges.
 
 ---
 
